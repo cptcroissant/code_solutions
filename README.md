@@ -1,4 +1,5 @@
 # Codewars kata solutions
 
-Not a perfect, but fast, readable and simple python code.  
+My python coding practices.
+
 Current rank - 5 kyu.  
