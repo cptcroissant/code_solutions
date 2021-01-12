@@ -2,4 +2,4 @@
 
 My python coding practices.
 
-Current rank - 5 kyu.  
+Current rank - 4 kyu.  
