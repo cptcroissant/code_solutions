@@ -1,5 +1,3 @@
-# Codewars kata solutions
+# Leetcood and codewars solutions
 
-My python coding practices.
-
-Current rank - 4 kyu.  
+My python coding practices
